@@ -1,0 +1,18 @@
+
+
+Token:	Identifier		Lexeme:	a
+
+
+Token:	Operator		Lexeme:	=
+
+
+Token:	Identifier		Lexeme:	b
+
+
+Token:	Operator		Lexeme:	+
+
+
+Token:	Identifier		Lexeme:	c
+
+
+Token:	Separator		Lexeme:	;
